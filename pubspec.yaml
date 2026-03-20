@@ -1,4 +1,4 @@
-name: codemagic.yaml
+name: pubspec.yaml
 description: OpenStax High School Physics — Notes, Quizzes, Formulas & Past Papers
 publish_to: 'none'
 version: 1.0.0+1
